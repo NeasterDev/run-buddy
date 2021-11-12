@@ -186,7 +186,7 @@ h3 {
 }
 
 .secondary-border {
-    border-color: #fce138;
+    border-color: #39a6b2;
 }
 
 /* Trainers sections */
@@ -238,4 +238,32 @@ h3 {
 
 .text-right {
     text-align: right;
+}
+
+.contact {
+    background: #024e76;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact h3 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+    display: inline;
+}
+
+.contact-info  div{
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
 }
